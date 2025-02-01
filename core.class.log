@@ -2,10 +2,10 @@
   key: {
     remoteJid: '593993225720@s.whatsapp.net',
     fromMe: false,
-    id: '0AA5CCD3E652CA99AA49C53072053D11',
+    id: '7134AF964739CD6279EC9A049159ABE3',
     participant: undefined
   },
-  messageTimestamp: 1738431172,
+  messageTimestamp: 1738444823,
   pushName: 'Henrry Jiménez',
   broadcast: false,
   message: Message {
@@ -20,8 +20,8 @@
   from: '593993225720'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4f8c2d5a-ed3b-46a5-9287-eb2653777d7b',
-  keyword: 'key_9b8846e3-6a5c-4e1a-8a09-851b5ec04b5d',
+  ref: 'ans_04e0196e-ec8d-46c4-a07c-0ed82ab174b8',
+  keyword: 'key_f02a2ccc-2caf-4cbb-94ed-78d5ac61b845',
   answer: '👋 ¡Hola! Bienvenid@ a Yanbal.🌟Aquí descubrirás cómo ganar ingresos, crecer personal y profesionalmente, y disfrutar de beneficios increíbles con Yanbal. 💼✨',
   options: {
     media: 'C:\\Users\\DELL\\Documents\\Henrry\\Chatbot\\base-baileys-memory\\flujo_chatbot\\media\\oficial.jpg',
@@ -35,11 +35,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '3af00d95058226cda0ab46733217bdcc'
+  refSerialize: '67453a7dda58da3ae2cc4ee9c5d7e7d5'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f8f9e58b-e93e-4f13-ab8e-6afd8d3bb16e',
-  keyword: 'ans_4f8c2d5a-ed3b-46a5-9287-eb2653777d7b',
+  ref: 'ans_9ab5db1b-4871-4aa9-9e49-576fb1fb4ca1',
+  keyword: 'ans_04e0196e-ec8d-46c4-a07c-0ed82ab174b8',
   answer: '*Nuestros servicios (Opción 1-7):*',
   options: {
     media: null,
@@ -53,11 +53,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'a74e8b34bcb68b7bb972c05e781aef66'
+  refSerialize: 'a6225cf119be656048d6d34a1543b1c7'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_31fb9a64-9269-4afa-87f0-2ad790c26509',
-  keyword: 'ans_f8f9e58b-e93e-4f13-ab8e-6afd8d3bb16e',
+  ref: 'ans_69b4ec6c-22b6-4f40-aca1-2b0bddd90aaa',
+  keyword: 'ans_9ab5db1b-4871-4aa9-9e49-576fb1fb4ca1',
   answer: '*1️⃣* ¿Cómo puedo ingresar a Yanbal para trabajar?\n' +
     '\n' +
     '*2️⃣* ¿Cuáles son los beneficios de unirme a Yanbal?\n' +
@@ -92,21 +92,22 @@
       [Object], [Object], [Object],
       [Object], [Object], [Object],
       [Object], [Object], [Object],
-      [Object], [Object], [Object]
+      [Object], [Object], [Object],
+      [Object]
     ],
     keyword: {},
     callback: false
   },
-  refSerialize: '584231a26aaddb756599673a25fe5476'
+  refSerialize: '53220afe9208ce477d85b3f94da8a5bd'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '593993225720@s.whatsapp.net',
     fromMe: false,
-    id: 'E78CA43A6D190ED4825CE0911C6F089D',
+    id: 'ABE1E153F6881E41B83D52E2BFC65727',
     participant: undefined
   },
-  messageTimestamp: 1738431182,
+  messageTimestamp: 1738444836,
   pushName: 'Henrry Jiménez',
   broadcast: false,
   message: Message {
@@ -121,8 +122,8 @@
   from: '593993225720'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_51a761b3-bfe4-45d0-9b15-5895d0182c27',
-  keyword: 'key_e7bc20d7-e2a5-4f8a-8fe4-4c7ec7a764ed',
+  ref: 'ans_7ea8e6c3-cb00-45f0-a57d-4887bcc6d19d',
+  keyword: 'key_3741d5ab-03df-4400-a147-77cab8775050',
   answer: '*_¡Con gusto! En breve te la enviamos. Gracias por tu paciencia._*',
   options: {
     media: null,
@@ -136,11 +137,11 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '4e1f70f41642b77f43aacca4a387495f'
+  refSerialize: '3e853870e6ceb6d7f4c20b3023e25962'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f39e369f-66b2-4c8c-81fd-9537d30588f2',
-  keyword: 'ans_51a761b3-bfe4-45d0-9b15-5895d0182c27',
+  ref: 'ans_b6619dc8-75a9-4569-a291-c8d5594ed6cc',
+  keyword: 'ans_7ea8e6c3-cb00-45f0-a57d-4887bcc6d19d',
   answer: '¡Aquí tienes nuestro catálogo! Esperamos que lo disfrutes.\n',
   options: {
     media: null,
@@ -154,14 +155,32 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'fdbc07794b80e7299abab6d21efa3cee'
+  refSerialize: '52b5115e8f25d2cc751bd1783481797d'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_72fc4f5e-30b7-4d51-a945-6aa2adeb7c07',
-  keyword: 'ans_f39e369f-66b2-4c8c-81fd-9537d30588f2',
+  ref: 'ans_789c78cf-8924-4a08-b0d6-a9610d1907cb',
+  keyword: 'ans_b6619dc8-75a9-4569-a291-c8d5594ed6cc',
   answer: 'Catálogo',
   options: {
-    media: 'https://raw.githubusercontent.com/Henrry-19/srea/refs/heads/version_07/static/img/cluster.png',
+    media: 'https://henrry-19.github.io/WppBotYanbal/ECU_2025_C2.pdf',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '393c5e96beffc695cb9b06dc66139d04'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4de25a91-58b1-4786-b2b2-008e55941dcf',
+  keyword: 'ans_789c78cf-8924-4a08-b0d6-a9610d1907cb',
+  answer: 'Esperamos que disfrutes nuestras promociones. Si deseas realizar un pedido, por favor *escríbenos y con gusto te guiaremos en el proceso*. Gracias por elegirnos.',
+  options: {
+    media: null,
     buttons: [],
     capture: false,
     child: null,
@@ -172,12 +191,16 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '96e1a5c0abd4fb3aa6d980e649dd2e97'
+  refSerialize: '5a4d57208ab4ae0ba6a621d7b40cbf9d'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_82eda889-dda1-46b6-84dc-405af978ca8d',
-  keyword: 'ans_72fc4f5e-30b7-4d51-a945-6aa2adeb7c07',
-  answer: '*(1).* Quiero ingresar\n\n*(0).* Regresar al menú principal.',
+  ref: 'ans_79ae68f9-4113-49a3-b45c-4d94764c6fd1',
+  keyword: 'ans_4de25a91-58b1-4786-b2b2-008e55941dcf',
+  answer: '*(1).* Quiero ingresar\n' +
+    '\n' +
+    '*(2).* Quiero pasar pedido\n' +
+    '\n' +
+    '*(0).* Regresar al menú principal.',
   options: {
     media: null,
     buttons: [],
@@ -190,5 +213,339 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '297f518f200935dfc6f5fc0d18e5a6d6'
+  refSerialize: 'cfcb5032889ab9807989e33c964e943a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593993225720@s.whatsapp.net',
+    fromMe: false,
+    id: '966631F91F8E7105608F0ACFF578C8DD',
+    participant: undefined
+  },
+  messageTimestamp: 1738444855,
+  pushName: 'Henrry Jiménez',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '593993225720'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593993225720@s.whatsapp.net',
+    fromMe: false,
+    id: '54FBEF4C11A2F814717AC9EF734B2CFC',
+    participant: undefined
+  },
+  messageTimestamp: 1738444859,
+  pushName: 'Henrry Jiménez',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '0',
+  from: '593993225720'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_04e0196e-ec8d-46c4-a07c-0ed82ab174b8',
+  keyword: 'key_f02a2ccc-2caf-4cbb-94ed-78d5ac61b845',
+  answer: '👋 ¡Hola! Bienvenid@ a Yanbal.🌟Aquí descubrirás cómo ganar ingresos, crecer personal y profesionalmente, y disfrutar de beneficios increíbles con Yanbal. 💼✨',
+  options: {
+    media: 'C:\\Users\\DELL\\Documents\\Henrry\\Chatbot\\base-baileys-memory\\flujo_chatbot\\media\\oficial.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '67453a7dda58da3ae2cc4ee9c5d7e7d5'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9ab5db1b-4871-4aa9-9e49-576fb1fb4ca1',
+  keyword: 'ans_04e0196e-ec8d-46c4-a07c-0ed82ab174b8',
+  answer: '*Nuestros servicios (Opción 1-7):*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a6225cf119be656048d6d34a1543b1c7'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69b4ec6c-22b6-4f40-aca1-2b0bddd90aaa',
+  keyword: 'ans_9ab5db1b-4871-4aa9-9e49-576fb1fb4ca1',
+  answer: '*1️⃣* ¿Cómo puedo ingresar a Yanbal para trabajar?\n' +
+    '\n' +
+    '*2️⃣* ¿Cuáles son los beneficios de unirme a Yanbal?\n' +
+    '\n' +
+    '*3️⃣* ¿Qué costo tiene el kit de inicio y cuál es el más recomendado?\n' +
+    '\n' +
+    '*4️⃣* ¿Qué pasa si no logro vender lo suficiente?\n' +
+    '\n' +
+    '*5️⃣* ¿Puedo invitar a otras personas y ganar más dinero?\n' +
+    '\n' +
+    '*6️⃣* ¿Serías tan amable de enviarnos la revista de la campaña, por favor?\n' +
+    '\n' +
+    '*7️⃣* Quiero hablar con un asesor\n' +
+    '\n' +
+    '✨ *¡El éxito comienza aquí! Escríbenos para resolver tus dudas y dar el primer paso con Yanbal.*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 3000,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '53220afe9208ce477d85b3f94da8a5bd'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593993225720@s.whatsapp.net',
+    fromMe: false,
+    id: '89C4129316CCBE0E8EE2E07D6AB14C58',
+    participant: undefined
+  },
+  messageTimestamp: 1738444874,
+  pushName: 'Henrry Jiménez',
+  broadcast: false,
+  message: Message {
+    conversation: '6',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '6',
+  from: '593993225720'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7ea8e6c3-cb00-45f0-a57d-4887bcc6d19d',
+  keyword: 'key_3741d5ab-03df-4400-a147-77cab8775050',
+  answer: '*_¡Con gusto! En breve te la enviamos. Gracias por tu paciencia._*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3e853870e6ceb6d7f4c20b3023e25962'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b6619dc8-75a9-4569-a291-c8d5594ed6cc',
+  keyword: 'ans_7ea8e6c3-cb00-45f0-a57d-4887bcc6d19d',
+  answer: '¡Aquí tienes nuestro catálogo! Esperamos que lo disfrutes.\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '52b5115e8f25d2cc751bd1783481797d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_789c78cf-8924-4a08-b0d6-a9610d1907cb',
+  keyword: 'ans_b6619dc8-75a9-4569-a291-c8d5594ed6cc',
+  answer: 'Catálogo',
+  options: {
+    media: 'https://henrry-19.github.io/WppBotYanbal/ECU_2025_C2.pdf',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '393c5e96beffc695cb9b06dc66139d04'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4de25a91-58b1-4786-b2b2-008e55941dcf',
+  keyword: 'ans_789c78cf-8924-4a08-b0d6-a9610d1907cb',
+  answer: 'Esperamos que disfrutes nuestras promociones. Si deseas realizar un pedido, por favor *escríbenos y con gusto te guiaremos en el proceso*. Gracias por elegirnos.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5a4d57208ab4ae0ba6a621d7b40cbf9d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_79ae68f9-4113-49a3-b45c-4d94764c6fd1',
+  keyword: 'ans_4de25a91-58b1-4786-b2b2-008e55941dcf',
+  answer: '*(1).* Quiero ingresar\n' +
+    '\n' +
+    '*(2).* Quiero pasar pedido\n' +
+    '\n' +
+    '*(0).* Regresar al menú principal.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cfcb5032889ab9807989e33c964e943a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593993225720@s.whatsapp.net',
+    fromMe: false,
+    id: 'E04E5672EECEF7173E6B44D6C2A34ABB',
+    participant: undefined
+  },
+  messageTimestamp: 1738444899,
+  pushName: 'Henrry Jiménez',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '593993225720'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593993225720@s.whatsapp.net',
+    fromMe: false,
+    id: 'B4ECAC9FF60B60E6A2A695227EC9FD80',
+    participant: undefined
+  },
+  messageTimestamp: 1738444902,
+  pushName: 'Henrry Jiménez',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '593993225720'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e0b1aa25-3a03-4f65-bd29-05210752ea66',
+  keyword: 'key_508e0cdb-fad8-4a0a-a14c-b541b1464c77',
+  answer: '*Formulario de registro*\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '99439bef7519775e6000b5557411097c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_35f624d9-d0d6-4998-8af4-746c64c50759',
+  keyword: 'ans_e0b1aa25-3a03-4f65-bd29-05210752ea66',
+  answer: '¡Perfecto! Para registrar tu cuenta como consultor(a) Yanbal, necesito algunos datos básicos. Por favor, responde a las siguientes preguntas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0a89053bb0586594d4d69ca1b8cdd8df'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_561591a8-546d-4f56-9ca4-a95cba393a6b',
+  keyword: 'ans_35f624d9-d0d6-4998-8af4-746c64c50759',
+  answer: '*1.* ¿Cuál es tu nombre completo?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c8bcbc779abb70a2e87d88e33e514899'
 }
